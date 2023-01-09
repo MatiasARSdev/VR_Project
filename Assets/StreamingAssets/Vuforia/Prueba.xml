@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="plymouth_20barracuda-32" size="1.000000 0.500000" />
+    <ImageTarget name="alfa_romeo_8c_2" size="1.000000 0.666992" />
+    <ImageTarget name="NAZ_ba830a49e2e34c31b5eeb91d0fb69182" size="1.000000 0.750000" />
     <ImageTarget name="plymouth_cuda" size="1.000000 1.000000" />
     <ImageTarget name="cadillac_cien" size="1.000000 1.000000" />
     <ImageTarget name="alfa_romeo_8c" size="1.000000 1.000000" />

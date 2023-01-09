@@ -19,7 +19,7 @@ MonoBehaviour:
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 3
     maxSimultaneousObjectTargets: 3
-    useDelayedLoadingObjectTargets: 1
+    useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
     version: 8.3.8
     eulaAcceptedVersions: '{"Values":["8.3"]}'
